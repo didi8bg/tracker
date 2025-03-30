@@ -1,6 +1,0 @@
-[2025-03-29T21:02:12.789Z] ✅ Indexes ensured on fields s, b.t, by.t, g.t, a.t
-[2025-03-29T21:02:19.478Z] ❌ Borrow fetch error: Updating the path 'a' would create a conflict at 'a'
-[2025-03-29T21:02:23.308Z] ❌ Borrow fetch error: Updating the path 'a' would create a conflict at 'a'
-[2025-03-29T21:05:06.531Z] ✅ Indexes ensured on fields s, b.t, by.t, g.t, a.t
-[2025-03-29T21:05:13.266Z] ❌ Borrow fetch error: Updating the path 'a' would create a conflict at 'a'
-[2025-03-29T21:05:17.122Z] ❌ Borrow fetch error: Updating the path 'a' would create a conflict at 'a'
